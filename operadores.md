@@ -22,3 +22,7 @@ En esta primera prueba hemos conectado 2 botones y 2 leds, y los hemos programad
 ![link al primer ejercicio](https://github.com/Mikeey666/ARDUINO/blob/24f5a4600266adbf50091f47cad4e4529b66de5b/operadores_ejercicio_1.ino)
 
 En este primer ejercicio hemos conectado de nuevo 2 botones y 2 leds. Pero a diferencia de la primera prueba, los hemos programado para que ambos leds se encendieran SOLO si se pulsaban los dos botones al unísono
+
+![link al segundo ejercicio](https://github.com/Mikeey666/ARDUINO/blob/3c565052ce2e49927292cc4bab2b11afffed3351/operadores_ejercicio_2.ino)
+
+Aqui simplemente hemos cambio los && por ||, haciendo que los leds se enciendan al pulsar cualquier botón, sea de forma individual o al mismo momento.
