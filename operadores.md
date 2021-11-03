@@ -17,20 +17,22 @@ Para poner un led necesitamos una resistencia de 220 ohmnios, las del cuerpo azu
 
 **BASE OPERADORES**
 
-```int estadoBotonPin2 = 0;
-int estadoBotonPin3 = 0;
-void setup() {
-  pinMode(2, INPUT);
-  pinMode(3, INPUT);
-  pinMode(4, OUTPUT);
-  pinMode(5, OUTPUT);
-  Serial.begin(9600);
-}
-void loop() {
-  estadoBotonPin2 = digitalRead(2);
-  estadoBotonPin3 = digitalRead(3);
-  Serial.print("Estado del botón 2: ");
-  Serial.println(estadoBotonPin2);
-  Serial.print("Estado del botón 3: ");
-  Serial.println(estadoBotonPin3); 
-}
+```int estadoBotonPin2 = 0;```
+```int estadoBotonPin3 = 0;```
+```void setup() {```
+  ```pinMode(2, INPUT);```
+  ```pinMode(3, INPUT);```
+  ```pinMode(4, OUTPUT);```
+  ```pinMode(5, OUTPUT);```
+  ```Serial.begin(9600);```
+```}```
+```void loop() {```
+ ``` estadoBotonPin2 = digitalRead(2);```
+  ```estadoBotonPin3 = digitalRead(3);```
+  ```Serial.print("Estado del botón 2: ");```
+  ```Serial.println(estadoBotonPin2);```
+  ```Serial.print("Estado del botón 3: ");```
+  ```Serial.println(estadoBotonPin3);``` 
+```}```
+
+![link a la primera prueba](https://github.com/Mikeey666/ARDUINO/blob/78752f0f95022b1738978e29f7b552dbfd303154/operadores_prueba_1.ino)
