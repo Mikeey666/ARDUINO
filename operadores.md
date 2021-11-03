@@ -33,4 +33,4 @@ void loop() {
   Serial.println(estadoBotonPin2);
   Serial.print("Estado del botón 3: ");
   Serial.println(estadoBotonPin3); 
-}```
+}
