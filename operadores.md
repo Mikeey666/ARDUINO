@@ -29,4 +29,4 @@ Aqui simplemente hemos cambio los && por ||, haciendo que los leds se enciendan 
 
 ![link al tercer ejercicio](https://github.com/Mikeey666/ARDUINO/blob/08d1355d4fc340ddf5a16da7e81102877df8aaef/operadores_ejercicio_3.ino)
 
-AL contrario de los ejercicios anteriores, esta vez hemos utilizado un operador que nos permite realizar la acción contraria de lo que queríamos hacer. ANtes encendiamos los leds al pulsar los 2 botones, gracias a este operador en vez de encenderlos APAGAMOS los leds al pulsar los dos botones.
+Al contrario de los ejercicios anteriores, esta vez hemos utilizado un operador que nos permite realizar la acción contraria de lo que queríamos hacer. ANtes encendiamos los leds al pulsar los 2 botones, gracias a este operador en vez de encenderlos APAGAMOS los leds al pulsar los dos botones.
