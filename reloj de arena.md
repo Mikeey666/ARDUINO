@@ -11,3 +11,5 @@ Pueden parecer numeros grandes pero si el arduino cuenta 1000 veces por segundo 
 ## Montaje
 
 ![kkkk](https://github.com/Mikeey666/1er-trimestre/blob/main/IMG-20220112-WA0007.jpeg?raw=true)
+
+[Codigo del reloj de arena](https://github.com/Mikeey666/ARDUINO/blob/3eb2dc0c1af7db11492f205b728cdef9d84d2e7a/reloj_de_arena_digital.ino)
