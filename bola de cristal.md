@@ -15,3 +15,7 @@ random: otorga un numero basado en el argumento que le des. En el ejemplo de est
 ## Montaje
 
 ![cahla](https://github.com/Mikeey666/ARDUINO/blob/main/IMG-20220112-WA0009.jpeg?raw=true)
+
+[Codigo de la bola de cristal](https://github.com/Mikeey666/ARDUINO/blob/18c732cb98ff88b78e0719ca55bf5b2f29b9d2f6/bola_de_cristal.ino)
+
+Nota!! Al colocar tildes en las palabras del comando print, aparecian caracteres japoneses en la pantalla en vez de lo que habámos escrito anteriormente
